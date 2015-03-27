@@ -6,13 +6,70 @@ Direct3D:
     Vendor:   ATI
     VRAM:     2027 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Baserfaz\Dropbox\3D-bangbang\3Dbangbang_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Baserfaz\Dropbox\3D-bangbang\3Dbangbang_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Baserfaz\Dropbox\3D-bangbang\3Dbangbang_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Baserfaz\Dropbox\3D-bangbang\3Dbangbang_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Baserfaz\Dropbox\3D-bangbang\3Dbangbang_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Baserfaz\Dropbox\3D-bangbang\3Dbangbang_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Baserfaz\Documents\GitHub\3Dbangbang\3D-bangbang\3Dbangbang_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Baserfaz\Documents\GitHub\3Dbangbang\3D-bangbang\3Dbangbang_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Baserfaz\Documents\GitHub\3Dbangbang\3D-bangbang\3Dbangbang_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Baserfaz\Documents\GitHub\3Dbangbang\3D-bangbang\3Dbangbang_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Baserfaz\Documents\GitHub\3Dbangbang\3D-bangbang\3Dbangbang_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Baserfaz\Documents\GitHub\3Dbangbang\3D-bangbang\3Dbangbang_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 - Completed reload, in  0.039 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Baserfaz\Documents\GitHub\3Dbangbang\3D-bangbang\3Dbangbang_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Baserfaz\Documents\GitHub\3Dbangbang\3D-bangbang\3Dbangbang_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 658 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.328719 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1939.
+Total: 0.390004 ms (FindLiveObjects: 0.069043 ms CreateObjectMapping: 0.029234 ms MarkObjects: 0.276175 ms  DeleteObjects: 0.015239 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1468 -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.007977 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1935.
+Total: 0.392803 ms (FindLiveObjects: 0.065933 ms CreateObjectMapping: 0.028923 ms MarkObjects: 0.285194 ms  DeleteObjects: 0.012440 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.959770 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1935.
+Total: 0.398090 ms (FindLiveObjects: 0.067488 ms CreateObjectMapping: 0.028301 ms MarkObjects: 0.292969 ms  DeleteObjects: 0.009019 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.010776 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1935.
+Total: 0.406487 ms (FindLiveObjects: 0.068421 ms CreateObjectMapping: 0.028612 ms MarkObjects: 0.300122 ms  DeleteObjects: 0.009019 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.018240 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1935.
+Total: 0.428880 ms (FindLiveObjects: 0.072464 ms CreateObjectMapping: 0.028612 ms MarkObjects: 0.317850 ms  DeleteObjects: 0.009330 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.965990 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1935.
+Total: 0.411463 ms (FindLiveObjects: 0.066555 ms CreateObjectMapping: 0.027990 ms MarkObjects: 0.307275 ms  DeleteObjects: 0.009330 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.011398 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1935.
+Total: 0.428880 ms (FindLiveObjects: 0.073397 ms CreateObjectMapping: 0.028923 ms MarkObjects: 0.316917 ms  DeleteObjects: 0.009330 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.970345 ms
+
+Unloading 201 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.387516 ms (FindLiveObjects: 0.027057 ms CreateObjectMapping: 0.018349 ms MarkObjects: 0.254093 ms  DeleteObjects: 0.087082 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 10b4 -> priority: 1 
