@@ -1,4 +1,3 @@
 # 3Dbangbang
-FPS-game made in Unity3D. (In development)
+Project is finished.
 
-Heikki Heiskanen 2015
